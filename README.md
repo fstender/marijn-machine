@@ -1,4 +1,4 @@
-# Personal webpage
+# marijn-machine
 
 Emulator of the hypothetical simple machine from the introduction of [Eloquent JavaScript](https://eloquentjavascript.net)
 
